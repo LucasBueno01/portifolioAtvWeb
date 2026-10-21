@@ -1,0 +1,19 @@
+# Arquivos compilados / Saídas de build
+*.o
+*.exe
+*.class
+bin/
+build/
+dist/
+target/
+
+# Dependências
+node_modules/
+
+# Arquivos temporários e do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs (opcional)
+.idea/
+.vscode/
